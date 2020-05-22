@@ -7,7 +7,7 @@ body {
   background-color: black;
 }
 #home{
-  background-image: url("Image/background6.jpg");
+  background-image: url("Image/final.jpg")!important;
   background-size: contain;
 }
 
