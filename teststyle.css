@@ -58,12 +58,16 @@ color: #c1c1c1;
     font-size: 20px;
   }
   #home{
-    background-image: url("Image/background6.jpg");
-    background-size: contain;
+    background-image: black;
   }
   #contact {
 background-color: black;
 
+}
+.about-box {
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 }
 
