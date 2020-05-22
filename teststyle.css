@@ -44,7 +44,7 @@ font-weight: 400;
 color: #c1c1c1;
 }
 
-@media (min-width: 200px) and (max-width: 768px) {
+@media (min-width: 20px) and (max-width: 768px) {
   h1  {
     font-size: 4vw;
   }
