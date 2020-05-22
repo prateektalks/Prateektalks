@@ -7,7 +7,7 @@ body {
   background-color: black;
 }
 #home{
-  background-image: url("Image/final.jpg")!important;
+    background-image: url("Image/background6.jpg")!important;
   background-size: contain;
 }
 
@@ -58,8 +58,9 @@ color: #c1c1c1;
     font-size: 20px;
   }
   #home{
-    background-image: black;
-  }
+background-image: url("Image/final.jpg")!important;
+  background-size: contain;
+	}
   #contact {
 background-color: black;
 
